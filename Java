@@ -1,0 +1,6 @@
+class sweet {
+  sweet a =new sweet();
+  sweet b =new sweet();
+  sweet c =new sweet();
+  sweet d =new sweet();
+  }
